@@ -28,7 +28,7 @@ IFS=$SAVEIFS
 # Hello World!
 # string='Hello World!'
 #
-# swap_caps "$swap_caps"
+# swap_caps "$string"
 # expected output
 # hELLO wORLD!
 # --- test case 01 end ---
